@@ -1,5 +1,7 @@
 # bitnp-design
 
+![GitHub repo size](https://img.shields.io/github/repo-size/BITNP/bitnp-design)
+
 存放有关网协设计的部分
 
 ## 其中包含
